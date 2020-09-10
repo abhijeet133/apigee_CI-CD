@@ -1,0 +1,6 @@
+{
+	"currencyApi": {
+		"domain": "abhijeeteanand-eval-test.apigee.net",
+		"basepath": "/currency/abhijeet.e.anandv1"
+	}
+}
